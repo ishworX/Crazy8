@@ -1,6 +1,6 @@
 # Directory that contains this project
 PROJECT_DIR = CRAZY8
-PROJECT = project
+PROJECT = game
 GTEST = test_$(PROJECT)
 
 # Compilation command and flags
